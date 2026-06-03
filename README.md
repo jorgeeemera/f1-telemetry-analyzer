@@ -36,3 +36,5 @@ This project simulates the workflow of a Motorsport Data Engineer, separating th
 
 # 📈 Tableau Dashboard
 The included .twbx (Tableau Packaged Workbook) file contains the interactive dashboard designed for the 2024 Monaco Grand Prix analysis. It allows users to dynamically filter telemetry data and spatial heatmaps by driver in real-time.
+
+![Preview](dashboard_dominance_monaco.png)
