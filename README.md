@@ -24,7 +24,7 @@ This project simulates the workflow of a Motorsport Data Engineer, separating th
 
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/your-username/f1-telemetry-analyzer.git](https://github.com/your-username/f1-telemetry-analyzer.git)
+   git clone https://github.com/jorgeeemera/f1-telemetry-analyzer/
 ```
 
 2. Install the required dependencies:
